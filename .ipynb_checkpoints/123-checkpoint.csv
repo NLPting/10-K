@@ -1,0 +1,56 @@
+Entity,white_list
+Microchip,O
+Freescale,O
+LG Electronics,O
+Epson,O
+Silicon Labs,O
+Microsemi,X
+Conexant,O
+Varian Medical Systems,O
+Varian,X
+Cisco,O
+Samsung Medical Systems,X
+Atmel,O
+Renesas,X
+Silicon Laboratories Inc.,O
+Huawei,O
+Systems Technology,O
+Analog,O
+Systems,X
+Taiwan Semiconductor Manufacturing Co.,O
+LG,O
+Maxim Integrated Products,O
+STMicroelectronics,O
+Sony Semiconductor,O
+ZTE,O
+Technicolor,O
+Cypress,X
+FtA,X
+Lantiq Integrated Products,X
+NXP Semiconductors,O
+Edom Technology,O
+Harman,X
+Texas Instruments,O
+Technicolor Medical Systems,X
+ARM,O
+Samsung,O
+DAA,O
+DSP,O
+NXP,O
+Panasonic,O
+Edom,X
+Alcatel,O
+IDT,O
+MaxLinear,O
+Integration,X
+Avnet,O
+Vectron International,O
+Texas,X
+TSMC,O
+Maxim,O
+Analog Devices,O
+Sony,O
+Pace,X
+Sagem,O
+Vectron,X
+ProSLIC,X
