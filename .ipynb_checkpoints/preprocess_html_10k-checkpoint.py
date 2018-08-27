@@ -6,17 +6,10 @@ import spacy
 import sys
 from nltk import sent_tokenize
 import pandas as pd
-nlp = spacy.load('en_core_web_sm')
+nlp = spacy.load('en_core_web_lg')
 #print(sys.argv)
 
-## 處理特殊狀況的句子
-def Filter_Title(sen):
-    flag = False
-    doc = nlp(sen)
-    for token in doc:
-        if token.pos_=='VERB':
-            flag = True
-    return flag
+
 
 ## 前處理(過濾表格、圖、標題)
 def Deal_html_return_sen(html_list):
