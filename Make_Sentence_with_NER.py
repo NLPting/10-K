@@ -69,6 +69,7 @@ def Deal_html_return_sen(html_list):
     return Sen
 
 
+## 選擇幾家公司
 def choose_n_company(i):
     years = ['2012','2013','2014','2015','2016','2017']
     company_list = glob.glob('xxxx/*/')[:i]
